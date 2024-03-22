@@ -14,7 +14,7 @@ class Education(models.Model):
 class Certificate(models.Model):
 
     headline= models.CharField(max_length=50, null=False, blank=False)
-    file_name= models.CharField(max_length=50, null=False, blank=False)
+    file_name= models.ImageField(null=True, blank=True)
 
     def __str__(self) -> str:
         return self.headline
@@ -23,6 +23,8 @@ class Skill(models.Model):
     
     type= models.CharField(max_length=20, null=False, blank=False)
     title= models.CharField(max_length=50, null=False, blank=False)
+    image= models.ImageField(upload_to="skill", blank=True, null=True)
+    order= models.PositiveSmallIntegerField(blank=True, null=True)
 
     def __str__(self) -> str:
         return self.title
@@ -43,6 +45,7 @@ class Project(models.Model):
     title= models.CharField(max_length=50, null=False, blank=False)
     description= models.TextField(null=False, blank=False)
     link= models.CharField(max_length=100, null=False, blank=False)
+    image= models.ImageField(blank=True, null=True)
 
     def __str__(self) -> str:
         return self.title

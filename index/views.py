@@ -4,7 +4,7 @@ from .models import Education, Course, Skill, Certificate, Experience, Project
 def index(request):
     educations= Education.objects.all()
     courses=Course.objects.all()
-    duras= Skill.objects.filter(type__contains = 'dura').order_by('id')
+    duras= Skill.objects.filter(type__contains = 'dura').order_by('order')
     blandas= Skill.objects.filter(type__contains = 'blanda').order_by('title')
     certificates= Certificate.objects.all()
     experiences= Experience.objects.all()
