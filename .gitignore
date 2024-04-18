@@ -1,3 +1,4 @@
-env/
+/env/
 __pycache__/
 .env
+index/migrations/__pycache__/

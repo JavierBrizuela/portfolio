@@ -14,7 +14,8 @@ class Education(models.Model):
 class Certificate(models.Model):
 
     headline= models.CharField(max_length=50, null=False, blank=False)
-    file_name= models.ImageField(null=True, blank=True)
+    file_name= models.ImageField(upload_to="certificate", null=True, blank=True)
+    visibility= models.BooleanField(default=True)
 
     def __str__(self) -> str:
         return self.headline
@@ -38,14 +39,14 @@ class Experience(models.Model):
     end_date= models.DateField()
 
     def __str__(self) -> str:
-        return self.company
+        return f'{self.company}, {self.job}'
 
 class Project(models.Model):
 
     title= models.CharField(max_length=50, null=False, blank=False)
     description= models.TextField(null=False, blank=False)
     link= models.CharField(max_length=100, null=False, blank=False)
-    image= models.ImageField(blank=True, null=True)
+    image= models.ImageField(upload_to="project", blank=True, null=True)
 
     def __str__(self) -> str:
         return self.title

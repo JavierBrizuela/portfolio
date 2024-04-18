@@ -6,8 +6,8 @@ def index(request):
     courses=Course.objects.all()
     duras= Skill.objects.filter(type__contains = 'dura').order_by('order')
     blandas= Skill.objects.filter(type__contains = 'blanda').order_by('title')
-    certificates= Certificate.objects.all()
-    experiences= Experience.objects.all()
+    certificates= Certificate.objects.filter(visibility=True)
+    experiences= Experience.objects.all().order_by('-start_date')
     projects= Project.objects.all()
     context={'educations':educations, 'courses':courses, 'duras':duras,
              'blandas':blandas, 'certificates':certificates, 'experiences':experiences, 'projects':projects}
