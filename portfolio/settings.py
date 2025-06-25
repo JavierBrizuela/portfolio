@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-_-u5mg3nd!pfa2@cyx9)%83_mups8dr$30u9e^zjyff#&uk41*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.getenv('DEBUG', 'False').lower() in ['true', '1', 'on', 'yes']
 
-ALLOWED_HOSTS = ['portfolio-production-c91c.up.railway.app','javierbrizuela.dev']
+ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', 'localhost,127.0.0.1').split(',')
 
 
 # Application definition
