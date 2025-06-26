@@ -1,1 +1,1274 @@
-[{"model": "admin.logentry", "pk": 1, "fields": {"action_time": "2023-01-14T19:52:00.809Z", "user": 1, "content_type": 11, "object_id": "1", "object_repr": "bash.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 2, "fields": {"action_time": "2023-01-14T19:52:15.737Z", "user": 1, "content_type": 11, "object_id": "2", "object_repr": "git.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 3, "fields": {"action_time": "2023-01-14T19:52:34.216Z", "user": 1, "content_type": 11, "object_id": "3", "object_repr": "html.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 4, "fields": {"action_time": "2023-01-14T19:52:51.757Z", "user": 1, "content_type": 11, "object_id": "4", "object_repr": "css.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 5, "fields": {"action_time": "2023-01-14T19:53:08.938Z", "user": 1, "content_type": 11, "object_id": "5", "object_repr": "numpy.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 6, "fields": {"action_time": "2023-01-14T19:53:22.942Z", "user": 1, "content_type": 11, "object_id": "6", "object_repr": "pandas.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 7, "fields": {"action_time": "2023-01-14T19:53:40.107Z", "user": 1, "content_type": 11, "object_id": "7", "object_repr": "matplotlib.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 8, "fields": {"action_time": "2023-01-14T19:53:53.077Z", "user": 1, "content_type": 11, "object_id": "8", "object_repr": "pgadmin.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 9, "fields": {"action_time": "2023-01-14T19:55:44.438Z", "user": 1, "content_type": 11, "object_id": "9", "object_repr": "Trabajo en equipo", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 10, "fields": {"action_time": "2023-01-14T19:55:56.407Z", "user": 1, "content_type": 11, "object_id": "10", "object_repr": "Adaptabilida", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 11, "fields": {"action_time": "2023-01-14T19:56:13.401Z", "user": 1, "content_type": 11, "object_id": "11", "object_repr": "Autodidacta", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 12, "fields": {"action_time": "2023-01-14T19:58:10.892Z", "user": 1, "content_type": 7, "object_id": "1", "object_repr": "Python (Basic)", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 13, "fields": {"action_time": "2023-01-14T20:02:37.632Z", "user": 1, "content_type": 7, "object_id": "2", "object_repr": "Scrum Fundamental Certicate", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 14, "fields": {"action_time": "2023-01-14T20:03:25.134Z", "user": 1, "content_type": 7, "object_id": "3", "object_repr": "Scrum Fundation Professional Certificate", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 15, "fields": {"action_time": "2023-01-14T20:04:30.593Z", "user": 1, "content_type": 7, "object_id": "4", "object_repr": "Relational Databas", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 16, "fields": {"action_time": "2023-01-14T20:06:23.609Z", "user": 1, "content_type": 7, "object_id": "4", "object_repr": "Relational Database", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Headline\"]}}]"}}, {"model": "admin.logentry", "pk": 17, "fields": {"action_time": "2023-01-14T20:12:26.256Z", "user": 1, "content_type": 12, "object_id": "1", "object_repr": "Python Core", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 18, "fields": {"action_time": "2023-01-14T20:13:45.413Z", "user": 1, "content_type": 12, "object_id": "2", "object_repr": "Python for Data Science", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 19, "fields": {"action_time": "2023-01-14T20:14:08.148Z", "user": 1, "content_type": 12, "object_id": "3", "object_repr": "Python for Finance", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 20, "fields": {"action_time": "2023-01-14T20:14:24.942Z", "user": 1, "content_type": 12, "object_id": "4", "object_repr": "GitHub", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 21, "fields": {"action_time": "2023-01-14T20:14:53.865Z", "user": 1, "content_type": 12, "object_id": "5", "object_repr": "PostgresSQL", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 22, "fields": {"action_time": "2023-01-14T20:15:14.009Z", "user": 1, "content_type": 12, "object_id": "6", "object_repr": "Django", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 23, "fields": {"action_time": "2023-01-14T20:19:35.018Z", "user": 1, "content_type": 8, "object_id": "1", "object_repr": "Cruz del Sur", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 24, "fields": {"action_time": "2023-01-14T20:21:02.572Z", "user": 1, "content_type": 8, "object_id": "2", "object_repr": "Instituto superior Manuel Belgrano", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 25, "fields": {"action_time": "2023-01-14T20:29:18.319Z", "user": 1, "content_type": 9, "object_id": "1", "object_repr": "ArteDigital", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 26, "fields": {"action_time": "2023-01-14T20:55:34.327Z", "user": 1, "content_type": 10, "object_id": "1", "object_repr": "Portfolio", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 27, "fields": {"action_time": "2023-02-06T16:43:08.749Z", "user": 2, "content_type": 11, "object_id": "11", "object_repr": "Aprendisaje rapido", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"}}, {"model": "admin.logentry", "pk": 28, "fields": {"action_time": "2023-02-06T16:44:08.817Z", "user": 2, "content_type": 11, "object_id": "10", "object_repr": "Autodesarrollo", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"}}, {"model": "admin.logentry", "pk": 29, "fields": {"action_time": "2023-02-06T16:47:14.326Z", "user": 2, "content_type": 11, "object_id": "12", "object_repr": "Paciencia y Perseverancia", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 30, "fields": {"action_time": "2023-02-06T16:48:07.130Z", "user": 2, "content_type": 11, "object_id": "13", "object_repr": "Creatividad e Innovación", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 31, "fields": {"action_time": "2023-02-06T16:48:32.515Z", "user": 2, "content_type": 11, "object_id": "14", "object_repr": "Pensamiento analítico y crítico", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 32, "fields": {"action_time": "2023-02-06T16:50:21.817Z", "user": 2, "content_type": 11, "object_id": "15", "object_repr": "Iniciativa", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 33, "fields": {"action_time": "2023-02-06T16:50:50.966Z", "user": 2, "content_type": 11, "object_id": "16", "object_repr": "Atención al detalle", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 34, "fields": {"action_time": "2023-03-06T00:31:11.258Z", "user": 1, "content_type": 10, "object_id": "2", "object_repr": "Blog de noticias semanales", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 35, "fields": {"action_time": "2023-03-18T20:14:57.825Z", "user": 1, "content_type": 10, "object_id": "2", "object_repr": "Blog de noticias semanales", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Link\"]}}]"}}, {"model": "admin.logentry", "pk": 36, "fields": {"action_time": "2023-05-29T18:02:29.830Z", "user": 2, "content_type": 7, "object_id": "5", "object_repr": "API Fundamentals Student Expert certificat", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 37, "fields": {"action_time": "2023-05-29T18:03:34.189Z", "user": 2, "content_type": 7, "object_id": "5", "object_repr": "API Fundamentals Student Expert certificate", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Headline\"]}}]"}}, {"model": "admin.logentry", "pk": 38, "fields": {"action_time": "2023-05-29T18:08:41.266Z", "user": 2, "content_type": 11, "object_id": "17", "object_repr": "postmanLogo.png", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "auth.permission", "pk": 1, "fields": {"name": "Can add log entry", "content_type": 1, "codename": "add_logentry"}}, {"model": "auth.permission", "pk": 2, "fields": {"name": "Can change log entry", "content_type": 1, "codename": "change_logentry"}}, {"model": "auth.permission", "pk": 3, "fields": {"name": "Can delete log entry", "content_type": 1, "codename": "delete_logentry"}}, {"model": "auth.permission", "pk": 4, "fields": {"name": "Can view log entry", "content_type": 1, "codename": "view_logentry"}}, {"model": "auth.permission", "pk": 5, "fields": {"name": "Can add permission", "content_type": 2, "codename": "add_permission"}}, {"model": "auth.permission", "pk": 6, "fields": {"name": "Can change permission", "content_type": 2, "codename": "change_permission"}}, {"model": "auth.permission", "pk": 7, "fields": {"name": "Can delete permission", "content_type": 2, "codename": "delete_permission"}}, {"model": "auth.permission", "pk": 8, "fields": {"name": "Can view permission", "content_type": 2, "codename": "view_permission"}}, {"model": "auth.permission", "pk": 9, "fields": {"name": "Can add group", "content_type": 3, "codename": "add_group"}}, {"model": "auth.permission", "pk": 10, "fields": {"name": "Can change group", "content_type": 3, "codename": "change_group"}}, {"model": "auth.permission", "pk": 11, "fields": {"name": "Can delete group", "content_type": 3, "codename": "delete_group"}}, {"model": "auth.permission", "pk": 12, "fields": {"name": "Can view group", "content_type": 3, "codename": "view_group"}}, {"model": "auth.permission", "pk": 13, "fields": {"name": "Can add user", "content_type": 4, "codename": "add_user"}}, {"model": "auth.permission", "pk": 14, "fields": {"name": "Can change user", "content_type": 4, "codename": "change_user"}}, {"model": "auth.permission", "pk": 15, "fields": {"name": "Can delete user", "content_type": 4, "codename": "delete_user"}}, {"model": "auth.permission", "pk": 16, "fields": {"name": "Can view user", "content_type": 4, "codename": "view_user"}}, {"model": "auth.permission", "pk": 17, "fields": {"name": "Can add content type", "content_type": 5, "codename": "add_contenttype"}}, {"model": "auth.permission", "pk": 18, "fields": {"name": "Can change content type", "content_type": 5, "codename": "change_contenttype"}}, {"model": "auth.permission", "pk": 19, "fields": {"name": "Can delete content type", "content_type": 5, "codename": "delete_contenttype"}}, {"model": "auth.permission", "pk": 20, "fields": {"name": "Can view content type", "content_type": 5, "codename": "view_contenttype"}}, {"model": "auth.permission", "pk": 21, "fields": {"name": "Can add session", "content_type": 6, "codename": "add_session"}}, {"model": "auth.permission", "pk": 22, "fields": {"name": "Can change session", "content_type": 6, "codename": "change_session"}}, {"model": "auth.permission", "pk": 23, "fields": {"name": "Can delete session", "content_type": 6, "codename": "delete_session"}}, {"model": "auth.permission", "pk": 24, "fields": {"name": "Can view session", "content_type": 6, "codename": "view_session"}}, {"model": "auth.permission", "pk": 25, "fields": {"name": "Can add certificate", "content_type": 7, "codename": "add_certificate"}}, {"model": "auth.permission", "pk": 26, "fields": {"name": "Can change certificate", "content_type": 7, "codename": "change_certificate"}}, {"model": "auth.permission", "pk": 27, "fields": {"name": "Can delete certificate", "content_type": 7, "codename": "delete_certificate"}}, {"model": "auth.permission", "pk": 28, "fields": {"name": "Can view certificate", "content_type": 7, "codename": "view_certificate"}}, {"model": "auth.permission", "pk": 29, "fields": {"name": "Can add education", "content_type": 8, "codename": "add_education"}}, {"model": "auth.permission", "pk": 30, "fields": {"name": "Can change education", "content_type": 8, "codename": "change_education"}}, {"model": "auth.permission", "pk": 31, "fields": {"name": "Can delete education", "content_type": 8, "codename": "delete_education"}}, {"model": "auth.permission", "pk": 32, "fields": {"name": "Can view education", "content_type": 8, "codename": "view_education"}}, {"model": "auth.permission", "pk": 33, "fields": {"name": "Can add experience", "content_type": 9, "codename": "add_experience"}}, {"model": "auth.permission", "pk": 34, "fields": {"name": "Can change experience", "content_type": 9, "codename": "change_experience"}}, {"model": "auth.permission", "pk": 35, "fields": {"name": "Can delete experience", "content_type": 9, "codename": "delete_experience"}}, {"model": "auth.permission", "pk": 36, "fields": {"name": "Can view experience", "content_type": 9, "codename": "view_experience"}}, {"model": "auth.permission", "pk": 37, "fields": {"name": "Can add project", "content_type": 10, "codename": "add_project"}}, {"model": "auth.permission", "pk": 38, "fields": {"name": "Can change project", "content_type": 10, "codename": "change_project"}}, {"model": "auth.permission", "pk": 39, "fields": {"name": "Can delete project", "content_type": 10, "codename": "delete_project"}}, {"model": "auth.permission", "pk": 40, "fields": {"name": "Can view project", "content_type": 10, "codename": "view_project"}}, {"model": "auth.permission", "pk": 41, "fields": {"name": "Can add skill", "content_type": 11, "codename": "add_skill"}}, {"model": "auth.permission", "pk": 42, "fields": {"name": "Can change skill", "content_type": 11, "codename": "change_skill"}}, {"model": "auth.permission", "pk": 43, "fields": {"name": "Can delete skill", "content_type": 11, "codename": "delete_skill"}}, {"model": "auth.permission", "pk": 44, "fields": {"name": "Can view skill", "content_type": 11, "codename": "view_skill"}}, {"model": "auth.permission", "pk": 45, "fields": {"name": "Can add course", "content_type": 12, "codename": "add_course"}}, {"model": "auth.permission", "pk": 46, "fields": {"name": "Can change course", "content_type": 12, "codename": "change_course"}}, {"model": "auth.permission", "pk": 47, "fields": {"name": "Can delete course", "content_type": 12, "codename": "delete_course"}}, {"model": "auth.permission", "pk": 48, "fields": {"name": "Can view course", "content_type": 12, "codename": "view_course"}}, {"model": "auth.user", "pk": 1, "fields": {"password": "pbkdf2_sha256$390000$cFTx7RCexceuo8BspStFEw$9rzPMI5DoKre0Aeae8TzmaepMl5zImUvr95c4FHXnzU=", "last_login": "2023-05-07T23:33:49.655Z", "is_superuser": true, "username": "javier1976", "first_name": "", "last_name": "", "email": "jbrizuela1976@gmail.com", "is_staff": true, "is_active": true, "date_joined": "2023-01-14T19:48:01.592Z", "groups": [], "user_permissions": []}}, {"model": "auth.user", "pk": 2, "fields": {"password": "pbkdf2_sha256$390000$Hzzipb2vBtE7DiXbd0JT6r$EiRKv2klTQjDXgX9osfDYrvzIWVYdiBtIaM8otX3J9U=", "last_login": "2023-05-29T16:32:11.427Z", "is_superuser": true, "username": "jbriz", "first_name": "", "last_name": "", "email": "jbrizuela1976@gmail.com", "is_staff": true, "is_active": true, "date_joined": "2023-02-06T16:40:28.711Z", "groups": [], "user_permissions": []}}, {"model": "contenttypes.contenttype", "pk": 1, "fields": {"app_label": "admin", "model": "logentry"}}, {"model": "contenttypes.contenttype", "pk": 2, "fields": {"app_label": "auth", "model": "permission"}}, {"model": "contenttypes.contenttype", "pk": 3, "fields": {"app_label": "auth", "model": "group"}}, {"model": "contenttypes.contenttype", "pk": 4, "fields": {"app_label": "auth", "model": "user"}}, {"model": "contenttypes.contenttype", "pk": 5, "fields": {"app_label": "contenttypes", "model": "contenttype"}}, {"model": "contenttypes.contenttype", "pk": 6, "fields": {"app_label": "sessions", "model": "session"}}, {"model": "contenttypes.contenttype", "pk": 7, "fields": {"app_label": "index", "model": "certificate"}}, {"model": "contenttypes.contenttype", "pk": 8, "fields": {"app_label": "index", "model": "education"}}, {"model": "contenttypes.contenttype", "pk": 9, "fields": {"app_label": "index", "model": "experience"}}, {"model": "contenttypes.contenttype", "pk": 10, "fields": {"app_label": "index", "model": "project"}}, {"model": "contenttypes.contenttype", "pk": 11, "fields": {"app_label": "index", "model": "skill"}}, {"model": "contenttypes.contenttype", "pk": 12, "fields": {"app_label": "index", "model": "course"}}, {"model": "sessions.session", "pk": "0us3ua2mlfazephbfa24iggqkf3ol0hz", "fields": {"session_data": ".eJxVjMsOwiAQRf-FtSG8BgaX7v0GAgxI1dCktCvjv2uTLnR7zzn3xULc1ha2UZYwETszyU6_W4r5UfoO6B77beZ57usyJb4r_KCDX2cqz8vh_h20ONq3tqZGxCSzRA1WaCoeCcDrZE12InmsCB4k5ESOqiM0RoEoypCqMmr2_gDNaTda:1pvnsz:qcblhxpxlBxEgMYRzMg2LFGcc8mPLTMjEzUsJZjKtcA", "expire_date": "2023-05-21T23:33:49.679Z"}}, {"model": "sessions.session", "pk": "9m1tfq1vdglhrmcw6dzhged1n0fn5pnf", "fields": {"session_data": ".eJxVjMsOwiAQRf-FtSG8BgaX7v0GAgxI1dCktCvjv2uTLnR7zzn3xULc1ha2UZYwETszyU6_W4r5UfoO6B77beZ57usyJb4r_KCDX2cqz8vh_h20ONq3tqZGxCSzRA1WaCoeCcDrZE12InmsCB4k5ESOqiM0RoEoypCqMmr2_gDNaTda:1pYyj7:6ZcLc-jjlftnUIh47qI0Y2lUYuAw4ilIKL0ScWmnINk", "expire_date": "2023-03-20T00:29:17.038Z"}}, {"model": "sessions.session", "pk": "a22wi1c5mdina3oq9h914qnr84dsoa0e", "fields": {"session_data": ".eJxVjMsOwiAQRf-FtSG8BgaX7v0GAgxI1dCktCvjv2uTLnR7zzn3xULc1ha2UZYwETszyU6_W4r5UfoO6B77beZ57usyJb4r_KCDX2cqz8vh_h20ONq3tqZGxCSzRA1WaCoeCcDrZE12InmsCB4k5ESOqiM0RoEoypCqMmr2_gDNaTda:1pGmWN:v9ugqqRCRNVjWSO3bPnWoNMQZ41bq33VLSn3E4JKPiE", "expire_date": "2023-01-28T19:48:55.650Z"}}, {"model": "sessions.session", "pk": "b66fyy781sq2lvh6aj1d5bjugoxb9thj", "fields": {"session_data": ".eJxVjDsOwyAQRO9CHSHWYD4p0_sMiGUhOIlAMnYV5e6xJRdJOfPezJv5sK3Fbz0tfiZ2ZQO7_HYY4jPVA9Aj1HvjsdV1mZEfCj9p51Oj9Lqd7t9BCb3sawsJTDA26yFLVAAgwWVpSYAVRqVstYsW96QIswnKkRijRJKkRxmRfb7CqTd2:1pP4Y1:h6JqnKNKk9koDhX9ArMOkSR6TXo-Eu5Jxk3n9H_bT9E", "expire_date": "2023-02-20T16:40:53.097Z"}}, {"model": "sessions.session", "pk": "fl9jbdzo2zo97oj4estkwj7a83i0zfyu", "fields": {"session_data": ".eJxVjDsOwyAQRO9CHSHWYD4p0_sMiGUhOIlAMnYV5e6xJRdJOfPezJv5sK3Fbz0tfiZ2ZQO7_HYY4jPVA9Aj1HvjsdV1mZEfCj9p51Oj9Lqd7t9BCb3sawsJTDA26yFLVAAgwWVpSYAVRqVstYsW96QIswnKkRijRJKkRxmRfb7CqTd2:1q3fn1:dHTuZP7cuqbjHXCrHp9mabPSL-JnIzwX2QH9hc84F_w", "expire_date": "2023-06-12T16:32:11.445Z"}}, {"model": "index.education", "pk": 1, "fields": {"name": "Cruz del Sur", "title": "Bachiller orientado en informática y especializado en programación y análisis de sistema", "start_date": "1989-03-01", "end_date": "1996-12-02"}}, {"model": "index.education", "pk": 2, "fields": {"name": "Instituto superior Manuel Belgrano", "title": "Diseño gráfico y publicitario", "start_date": "2010-03-01", "end_date": "2013-12-02"}}, {"model": "index.certificate", "pk": 1, "fields": {"headline": "Python (Basic)", "file_name": "HackerRank ID10A971B90E25"}}, {"model": "index.certificate", "pk": 2, "fields": {"headline": "Scrum Fundamental Certicate", "file_name": "Certificate 939943"}}, {"model": "index.certificate", "pk": 3, "fields": {"headline": "Scrum Fundation Professional Certificate", "file_name": "Certificate 79696126"}}, {"model": "index.certificate", "pk": 4, "fields": {"headline": "Relational Database", "file_name": "https://freecodecamp.org/certification/ javierBriz"}}, {"model": "index.certificate", "pk": 5, "fields": {"headline": "API Fundamentals Student Expert certificate", "file_name": "postman.png"}}, {"model": "index.skill", "pk": 1, "fields": {"type": "dura", "title": "bash.png"}}, {"model": "index.skill", "pk": 2, "fields": {"type": "dura", "title": "git.png"}}, {"model": "index.skill", "pk": 3, "fields": {"type": "dura", "title": "html.png"}}, {"model": "index.skill", "pk": 4, "fields": {"type": "dura", "title": "css.png"}}, {"model": "index.skill", "pk": 5, "fields": {"type": "dura", "title": "numpy.png"}}, {"model": "index.skill", "pk": 6, "fields": {"type": "dura", "title": "pandas.png"}}, {"model": "index.skill", "pk": 7, "fields": {"type": "dura", "title": "matplotlib.png"}}, {"model": "index.skill", "pk": 8, "fields": {"type": "dura", "title": "pgadmin.png"}}, {"model": "index.skill", "pk": 9, "fields": {"type": "blanda", "title": "Trabajo en equipo"}}, {"model": "index.skill", "pk": 10, "fields": {"type": "blanda", "title": "Autodesarrollo"}}, {"model": "index.skill", "pk": 11, "fields": {"type": "blanda", "title": "Aprendisaje rapido"}}, {"model": "index.skill", "pk": 12, "fields": {"type": "blanda", "title": "Paciencia y Perseverancia"}}, {"model": "index.skill", "pk": 13, "fields": {"type": "blanda", "title": "Creatividad e Innovación"}}, {"model": "index.skill", "pk": 14, "fields": {"type": "blanda", "title": "Pensamiento analítico y crítico"}}, {"model": "index.skill", "pk": 15, "fields": {"type": "blanda", "title": "Iniciativa"}}, {"model": "index.skill", "pk": 16, "fields": {"type": "blanda", "title": "Atención al detalle"}}, {"model": "index.skill", "pk": 17, "fields": {"type": "dura", "title": "postmanLogo.png"}}, {"model": "index.experience", "pk": 1, "fields": {"company": "ArteDigital", "job": "Freelance", "description": "Tengo 20 años de experiencia en la industria gráfica (Diseño y producción) y me encuentro en una etapa en donde tengo una vida estable sin grandes preocupaciones Y me encantaría que me dieran la oportunidad de ejercer la profesión que realmente me apasionó toda mi vida, que es la programación.", "start_date": "2002-07-01", "end_date": "2023-01-01"}}, {"model": "index.project", "pk": 1, "fields": {"title": "Portfolio", "description": "Portfolio Desarrollado en Django 4.1.1 sobre un template de bootstrap y gestiono la base de datos con postgres. El despliegue lo realice en Pythonanywhere.", "link": "https://github.com/JavierBrizuela/portfolio"}}, {"model": "index.project", "pk": 2, "fields": {"title": "Blog de noticias semanales", "description": "Un Blog con contenido semanal desarrollado en Django 4.1.1 sobre un template de bootstrap, En el cual pongo en practica las vistas basadas en classes y se puede realizar el CRUD si estas logeado como staf.", "link": "https://github.com/JavierBrizuela/BlogWeek/tree/view_class"}}, {"model": "index.course", "pk": 1, "fields": {"title": "Python Core", "info": "cert-26265053-1073"}}, {"model": "index.course", "pk": 2, "fields": {"title": "Python for Data Science", "info": "cert-26265053-1161"}}, {"model": "index.course", "pk": 3, "fields": {"title": "Python for Finance", "info": "cert-1173-26265053"}}, {"model": "index.course", "pk": 4, "fields": {"title": "GitHub", "info": "cert- AbBvtKF92nvMws3t-pA-4ASrjaE"}}, {"model": "index.course", "pk": 5, "fields": {"title": "PostgresSQL", "info": "cert-ARSe3D-kJcRf1Fzu_pgHN74dhPAp"}}, {"model": "index.course", "pk": 6, "fields": {"title": "Django", "info": "campus.open-bootcamp.com"}}]
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2023-01-14T19:52:00.809Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "bash.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2023-01-14T19:52:15.737Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "git.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2023-01-14T19:52:34.216Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "html.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2023-01-14T19:52:51.757Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "4",
+      "object_repr": "css.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2023-01-14T19:53:08.938Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "5",
+      "object_repr": "numpy.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2023-01-14T19:53:22.942Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "6",
+      "object_repr": "pandas.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2023-01-14T19:53:40.107Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "7",
+      "object_repr": "matplotlib.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2023-01-14T19:53:53.077Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "pgadmin.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2023-01-14T19:55:44.438Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "9",
+      "object_repr": "Trabajo en equipo",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2023-01-14T19:55:56.407Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "10",
+      "object_repr": "Adaptabilida",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2023-01-14T19:56:13.401Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "11",
+      "object_repr": "Autodidacta",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2023-01-14T19:58:10.892Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Python (Basic)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2023-01-14T20:02:37.632Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Scrum Fundamental Certicate",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2023-01-14T20:03:25.134Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Scrum Fundation Professional Certificate",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2023-01-14T20:04:30.593Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Relational Databas",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2023-01-14T20:06:23.609Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Relational Database",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Headline\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2023-01-14T20:12:26.256Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "Python Core",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2023-01-14T20:13:45.413Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "2",
+      "object_repr": "Python for Data Science",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2023-01-14T20:14:08.148Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "3",
+      "object_repr": "Python for Finance",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2023-01-14T20:14:24.942Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "4",
+      "object_repr": "GitHub",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2023-01-14T20:14:53.865Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "5",
+      "object_repr": "PostgresSQL",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2023-01-14T20:15:14.009Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "6",
+      "object_repr": "Django",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2023-01-14T20:19:35.018Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Cruz del Sur",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2023-01-14T20:21:02.572Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Instituto superior Manuel Belgrano",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2023-01-14T20:29:18.319Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "ArteDigital",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2023-01-14T20:55:34.327Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "Portfolio",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2023-02-06T16:43:08.749Z",
+      "user": 2,
+      "content_type": 11,
+      "object_id": "11",
+      "object_repr": "Aprendisaje rapido",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2023-02-06T16:44:08.817Z",
+      "user": 2,
+      "content_type": 11,
+      "object_id": "10",
+      "object_repr": "Autodesarrollo",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2023-02-06T16:47:14.326Z",
+      "user": 2,
+      "content_type": 11,
+      "object_id": "12",
+      "object_repr": "Paciencia y Perseverancia",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2023-02-06T16:48:07.130Z",
+      "user": 2,
+      "content_type": 11,
+      "object_id": "13",
+      "object_repr": "Creatividad e Innovación",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2023-02-06T16:48:32.515Z",
+      "user": 2,
+      "content_type": 11,
+      "object_id": "14",
+      "object_repr": "Pensamiento analítico y crítico",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2023-02-06T16:50:21.817Z",
+      "user": 2,
+      "content_type": 11,
+      "object_id": "15",
+      "object_repr": "Iniciativa",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2023-02-06T16:50:50.966Z",
+      "user": 2,
+      "content_type": 11,
+      "object_id": "16",
+      "object_repr": "Atención al detalle",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2023-03-06T00:31:11.258Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Blog de noticias semanales",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2023-03-18T20:14:57.825Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Blog de noticias semanales",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Link\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2023-05-29T18:02:29.830Z",
+      "user": 2,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "API Fundamentals Student Expert certificat",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2023-05-29T18:03:34.189Z",
+      "user": 2,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "API Fundamentals Student Expert certificate",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Headline\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2023-05-29T18:08:41.266Z",
+      "user": 2,
+      "content_type": 11,
+      "object_id": "17",
+      "object_repr": "postmanLogo.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add certificate",
+      "content_type": 7,
+      "codename": "add_certificate"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change certificate",
+      "content_type": 7,
+      "codename": "change_certificate"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete certificate",
+      "content_type": 7,
+      "codename": "delete_certificate"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view certificate",
+      "content_type": 7,
+      "codename": "view_certificate"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add education",
+      "content_type": 8,
+      "codename": "add_education"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change education",
+      "content_type": 8,
+      "codename": "change_education"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete education",
+      "content_type": 8,
+      "codename": "delete_education"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view education",
+      "content_type": 8,
+      "codename": "view_education"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add experience",
+      "content_type": 9,
+      "codename": "add_experience"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change experience",
+      "content_type": 9,
+      "codename": "change_experience"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete experience",
+      "content_type": 9,
+      "codename": "delete_experience"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view experience",
+      "content_type": 9,
+      "codename": "view_experience"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add project",
+      "content_type": 10,
+      "codename": "add_project"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change project",
+      "content_type": 10,
+      "codename": "change_project"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete project",
+      "content_type": 10,
+      "codename": "delete_project"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view project",
+      "content_type": 10,
+      "codename": "view_project"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add skill",
+      "content_type": 11,
+      "codename": "add_skill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change skill",
+      "content_type": 11,
+      "codename": "change_skill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete skill",
+      "content_type": 11,
+      "codename": "delete_skill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view skill",
+      "content_type": 11,
+      "codename": "view_skill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add course",
+      "content_type": 12,
+      "codename": "add_course"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change course",
+      "content_type": 12,
+      "codename": "change_course"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete course",
+      "content_type": 12,
+      "codename": "delete_course"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view course",
+      "content_type": 12,
+      "codename": "view_course"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$cFTx7RCexceuo8BspStFEw$9rzPMI5DoKre0Aeae8TzmaepMl5zImUvr95c4FHXnzU=",
+      "last_login": "2023-05-07T23:33:49.655Z",
+      "is_superuser": true,
+      "username": "javier1976",
+      "first_name": "",
+      "last_name": "",
+      "email": "jbrizuela1976@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-01-14T19:48:01.592Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$Hzzipb2vBtE7DiXbd0JT6r$EiRKv2klTQjDXgX9osfDYrvzIWVYdiBtIaM8otX3J9U=",
+      "last_login": "2023-05-29T16:32:11.427Z",
+      "is_superuser": true,
+      "username": "jbriz",
+      "first_name": "",
+      "last_name": "",
+      "email": "jbrizuela1976@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-02-06T16:40:28.711Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": { "app_label": "admin", "model": "logentry" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": { "app_label": "auth", "model": "permission" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": { "app_label": "auth", "model": "group" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": { "app_label": "auth", "model": "user" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": { "app_label": "contenttypes", "model": "contenttype" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": { "app_label": "sessions", "model": "session" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": { "app_label": "index", "model": "certificate" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": { "app_label": "index", "model": "education" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": { "app_label": "index", "model": "experience" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": { "app_label": "index", "model": "project" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": { "app_label": "index", "model": "skill" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": { "app_label": "index", "model": "course" }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "0us3ua2mlfazephbfa24iggqkf3ol0hz",
+    "fields": {
+      "session_data": ".eJxVjMsOwiAQRf-FtSG8BgaX7v0GAgxI1dCktCvjv2uTLnR7zzn3xULc1ha2UZYwETszyU6_W4r5UfoO6B77beZ57usyJb4r_KCDX2cqz8vh_h20ONq3tqZGxCSzRA1WaCoeCcDrZE12InmsCB4k5ESOqiM0RoEoypCqMmr2_gDNaTda:1pvnsz:qcblhxpxlBxEgMYRzMg2LFGcc8mPLTMjEzUsJZjKtcA",
+      "expire_date": "2023-05-21T23:33:49.679Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "9m1tfq1vdglhrmcw6dzhged1n0fn5pnf",
+    "fields": {
+      "session_data": ".eJxVjMsOwiAQRf-FtSG8BgaX7v0GAgxI1dCktCvjv2uTLnR7zzn3xULc1ha2UZYwETszyU6_W4r5UfoO6B77beZ57usyJb4r_KCDX2cqz8vh_h20ONq3tqZGxCSzRA1WaCoeCcDrZE12InmsCB4k5ESOqiM0RoEoypCqMmr2_gDNaTda:1pYyj7:6ZcLc-jjlftnUIh47qI0Y2lUYuAw4ilIKL0ScWmnINk",
+      "expire_date": "2023-03-20T00:29:17.038Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "a22wi1c5mdina3oq9h914qnr84dsoa0e",
+    "fields": {
+      "session_data": ".eJxVjMsOwiAQRf-FtSG8BgaX7v0GAgxI1dCktCvjv2uTLnR7zzn3xULc1ha2UZYwETszyU6_W4r5UfoO6B77beZ57usyJb4r_KCDX2cqz8vh_h20ONq3tqZGxCSzRA1WaCoeCcDrZE12InmsCB4k5ESOqiM0RoEoypCqMmr2_gDNaTda:1pGmWN:v9ugqqRCRNVjWSO3bPnWoNMQZ41bq33VLSn3E4JKPiE",
+      "expire_date": "2023-01-28T19:48:55.650Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "b66fyy781sq2lvh6aj1d5bjugoxb9thj",
+    "fields": {
+      "session_data": ".eJxVjDsOwyAQRO9CHSHWYD4p0_sMiGUhOIlAMnYV5e6xJRdJOfPezJv5sK3Fbz0tfiZ2ZQO7_HYY4jPVA9Aj1HvjsdV1mZEfCj9p51Oj9Lqd7t9BCb3sawsJTDA26yFLVAAgwWVpSYAVRqVstYsW96QIswnKkRijRJKkRxmRfb7CqTd2:1pP4Y1:h6JqnKNKk9koDhX9ArMOkSR6TXo-Eu5Jxk3n9H_bT9E",
+      "expire_date": "2023-02-20T16:40:53.097Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "fl9jbdzo2zo97oj4estkwj7a83i0zfyu",
+    "fields": {
+      "session_data": ".eJxVjDsOwyAQRO9CHSHWYD4p0_sMiGUhOIlAMnYV5e6xJRdJOfPezJv5sK3Fbz0tfiZ2ZQO7_HYY4jPVA9Aj1HvjsdV1mZEfCj9p51Oj9Lqd7t9BCb3sawsJTDA26yFLVAAgwWVpSYAVRqVstYsW96QIswnKkRijRJKkRxmRfb7CqTd2:1q3fn1:dHTuZP7cuqbjHXCrHp9mabPSL-JnIzwX2QH9hc84F_w",
+      "expire_date": "2023-06-12T16:32:11.445Z"
+    }
+  },
+  {
+    "model": "index.education",
+    "pk": 1,
+    "fields": {
+      "name": "Cruz del Sur",
+      "title": "Bachiller orientado en informática y especializado en programación y análisis de sistema",
+      "start_date": "1989-03-01",
+      "end_date": "1996-12-02"
+    }
+  },
+  {
+    "model": "index.education",
+    "pk": 2,
+    "fields": {
+      "name": "Instituto superior Manuel Belgrano",
+      "title": "Diseño gráfico y publicitario",
+      "start_date": "2010-03-01",
+      "end_date": "2013-12-02"
+    }
+  },
+  {
+    "model": "index.certificate",
+    "pk": 1,
+    "fields": {
+      "headline": "Python (Basic)",
+      "file_name": "HackerRank ID10A971B90E25"
+    }
+  },
+  {
+    "model": "index.certificate",
+    "pk": 2,
+    "fields": {
+      "headline": "Scrum Fundamental Certicate",
+      "file_name": "Certificate 939943"
+    }
+  },
+  {
+    "model": "index.certificate",
+    "pk": 3,
+    "fields": {
+      "headline": "Scrum Fundation Professional Certificate",
+      "file_name": "Certificate 79696126"
+    }
+  },
+  {
+    "model": "index.certificate",
+    "pk": 4,
+    "fields": {
+      "headline": "Relational Database",
+      "file_name": "https://freecodecamp.org/certification/ javierBriz"
+    }
+  },
+  {
+    "model": "index.certificate",
+    "pk": 5,
+    "fields": {
+      "headline": "API Fundamentals Student Expert certificate",
+      "file_name": "postman.png"
+    }
+  },
+  {
+    "model": "index.skill",
+    "pk": 1,
+    "fields": { "type": "dura", "title": "bash.png" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 2,
+    "fields": { "type": "dura", "title": "git.png" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 3,
+    "fields": { "type": "dura", "title": "html.png" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 4,
+    "fields": { "type": "dura", "title": "css.png" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 5,
+    "fields": { "type": "dura", "title": "numpy.png" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 6,
+    "fields": { "type": "dura", "title": "pandas.png" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 7,
+    "fields": { "type": "dura", "title": "matplotlib.png" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 8,
+    "fields": { "type": "dura", "title": "pgadmin.png" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 9,
+    "fields": { "type": "blanda", "title": "Trabajo en equipo" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 10,
+    "fields": { "type": "blanda", "title": "Autodesarrollo" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 11,
+    "fields": { "type": "blanda", "title": "Aprendisaje rapido" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 12,
+    "fields": { "type": "blanda", "title": "Paciencia y Perseverancia" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 13,
+    "fields": { "type": "blanda", "title": "Creatividad e Innovación" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 14,
+    "fields": { "type": "blanda", "title": "Pensamiento analítico y crítico" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 15,
+    "fields": { "type": "blanda", "title": "Iniciativa" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 16,
+    "fields": { "type": "blanda", "title": "Atención al detalle" }
+  },
+  {
+    "model": "index.skill",
+    "pk": 17,
+    "fields": { "type": "dura", "title": "postmanLogo.png" }
+  },
+  {
+    "model": "index.experience",
+    "pk": 1,
+    "fields": {
+      "company": "ArteDigital",
+      "job": "Freelance",
+      "description": "Tengo 20 años de experiencia en la industria gráfica (Diseño y producción) y me encuentro en una etapa en donde tengo una vida estable sin grandes preocupaciones Y me encantaría que me dieran la oportunidad de ejercer la profesión que realmente me apasionó toda mi vida, que es la programación.",
+      "start_date": "2002-07-01",
+      "end_date": "2023-01-01"
+    }
+  },
+  {
+    "model": "index.project",
+    "pk": 1,
+    "fields": {
+      "title": "Portfolio",
+      "description": "Portfolio Desarrollado en Django 4.1.1 sobre un template de bootstrap y gestiono la base de datos con postgres. El despliegue lo realice en Pythonanywhere.",
+      "link": "https://github.com/JavierBrizuela/portfolio"
+    }
+  },
+  {
+    "model": "index.project",
+    "pk": 2,
+    "fields": {
+      "title": "Blog de noticias semanales",
+      "description": "Un Blog con contenido semanal desarrollado en Django 4.1.1 sobre un template de bootstrap, En el cual pongo en practica las vistas basadas en classes y se puede realizar el CRUD si estas logeado como staf.",
+      "link": "https://github.com/JavierBrizuela/BlogWeek/tree/view_class"
+    }
+  },
+  {
+    "model": "index.course",
+    "pk": 1,
+    "fields": { "title": "Python Core", "info": "cert-26265053-1073" }
+  },
+  {
+    "model": "index.course",
+    "pk": 2,
+    "fields": {
+      "title": "Python for Data Science",
+      "info": "cert-26265053-1161"
+    }
+  },
+  {
+    "model": "index.course",
+    "pk": 3,
+    "fields": { "title": "Python for Finance", "info": "cert-1173-26265053" }
+  },
+  {
+    "model": "index.course",
+    "pk": 4,
+    "fields": { "title": "GitHub", "info": "cert- AbBvtKF92nvMws3t-pA-4ASrjaE" }
+  },
+  {
+    "model": "index.course",
+    "pk": 5,
+    "fields": {
+      "title": "PostgresSQL",
+      "info": "cert-ARSe3D-kJcRf1Fzu_pgHN74dhPAp"
+    }
+  },
+  {
+    "model": "index.course",
+    "pk": 6,
+    "fields": { "title": "Django", "info": "campus.open-bootcamp.com" }
+  }
+]
