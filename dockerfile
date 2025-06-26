@@ -13,6 +13,9 @@ COPY requirements.txt .
 # Instalar dependencias Python
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Instalar servidor WSGI para producción
+RUN pip install gunicorn
+
 # Copiar el resto del código
 COPY . .
 
@@ -22,5 +25,7 @@ EXPOSE $PORT
 # Recopilar archivos estáticos
 RUN python manage.py collectstatic --noinput
 
+RUN python manage.py createsuperuser --noinput
+
 # Comando por defecto para ejecutar la aplicación
-CMD ["python", "manage.py", "runserver", "0.0.0.0:$PORT"]
+CMD ["gunicorn", "0.0.0.0:$PORT", "portfolio.wsgi:application" ]
