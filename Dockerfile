@@ -22,7 +22,5 @@ EXPOSE $PORT
 # Recopilar archivos estáticos
 RUN python manage.py collectstatic --noinput
 
-RUN python manage.py createsuperuser --noinput
-
 # Comando por defecto para ejecutar la aplicación
 CMD ["gunicorn", "--bind", "0.0.0.0:$PORT", "portfolio.wsgi:application" ]
