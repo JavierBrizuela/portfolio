@@ -13,9 +13,6 @@ COPY requirements.txt .
 # Instalar dependencias Python
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Instalar servidor WSGI para producción
-RUN pip install gunicorn
-
 # Copiar el resto del código
 COPY . .
 
