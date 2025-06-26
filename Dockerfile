@@ -23,4 +23,4 @@ EXPOSE $PORT
 RUN python manage.py collectstatic --noinput
 
 # Comando por defecto para ejecutar la aplicación
-CMD ["gunicorn", "--bind", "0.0.0.0:$PORT", "portfolio.wsgi:application" ]
+CMD sh -c "gunicorn --bind 0.0.0.0:$PORT portfolio.wsgi:application"
